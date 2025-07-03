@@ -38,7 +38,6 @@
  */
 
 var cnames_active = {
-  "discord-yargs": "discord-yargs.github.io/landing",
   "": "js-org.github.io",
   "01mz": "01mz.github.io",
   "100dayz": "deadcoder0904.github.io/100dayz",
@@ -866,6 +865,7 @@ var cnames_active = {
   "discord-twitch": "tovade.github.io/discord-twitch",
   "discord-voice": "discord-voice.netlify.app",
   "discord-vr": "hosting.gitbook.io", // noCF
+  "discord-yargs": "discord-yargs.github.io/landing",
   "discord4node": "mrsheldon.github.io/Discord4Node",
   "discordeno": "discordeno.github.io/discordeno",
   "discordhy": "readthedocs.io",
